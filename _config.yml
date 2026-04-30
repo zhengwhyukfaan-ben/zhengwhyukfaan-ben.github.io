@@ -1,4 +1,8 @@
 title: Personal Profile of Zheng Wai Hong
-description: Showing my experience
+description: |
+  A website for showing my experiences.
 theme: jekyll-theme-minimal
 lang: zh-TW
+github:
+  username: zhengwhyukfaan-ben
+  email: waihongzhg@gmail.com

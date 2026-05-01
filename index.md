@@ -6,6 +6,7 @@ layout: default
 
 This is a personal profile of Zheng Wai Hong
 
+---
 
 ## Who?
 
@@ -13,6 +14,7 @@ This is a personal profile of Zheng Wai Hong
 
 I call myself *"The Digital Collector"*.
 
+---
 
 ## Where, when, and what?
 
@@ -20,6 +22,7 @@ From **Macau SAR**, People's Republic of China. An ethnic Chinese, born in AD 20
 
 A male, a heterosexual, a caffeine addict and currently an agnostic. My native language is **Cantonese**, and I also speak Mandarin and English. 
 
+---
 
 ## Current Status
 
